@@ -1,4 +1,4 @@
-# Nhóm 10 
+# Nhóm 10 LT Hướng Đối Tượng
 Bài tập Dinosaur ( trò khủng long )
 Tên thành viên 
 Nguyễn Thị Thùy
