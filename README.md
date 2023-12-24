@@ -1,4 +1,9 @@
-# Nhóm 10 bộ môn lập trình hướng đối tượng 
+# Nhóm 10 
 Bài tập Dinosaur ( trò khủng long )
-Tên thành viên + msv 
+Tên thành viên 
 Nguyễn Thị Thùy
+Nguyễn Nhật Linh
+Nguyễn Thái Đình
+Nguyễn Văn Niên
+Nguyễn Thị Quỳnh Trang
+Cao Xuân Tây
